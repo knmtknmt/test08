@@ -38,8 +38,8 @@ function submit(input) {
       showQuiz();
 
     } else {
-        //console.log(quizNumber + 2000);
-        //console.log(quizNumber + 20000);
+        //console.log(quizNumber + 2001);
+        //console.log(quizNumber + 20001);
          finish();  
     }
   }
